@@ -1,3 +1,3 @@
 # Website
 
-Click this to visit website: https://github.com/zaldivarjoan/Website.git
+Click this to visit website: https://zaldivarjoan.github.io/Website/
